@@ -1,0 +1,12 @@
+.head {
+  background-color: #12d5b5;
+}
+.head .text {
+  color: #fff;
+}
+.head .coustom {
+  background-color: #feae11;
+  border-color: #feae11;
+  color: #fff;
+  border-style: dashed;
+}
